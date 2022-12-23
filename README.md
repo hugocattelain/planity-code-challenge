@@ -1,6 +1,6 @@
-### Planity Code Challenge
+## Planity Code Challenge
 
-## Hugo Cattelain
+### Hugo Cattelain
 
 To start the project locally, run the following commands:
 
